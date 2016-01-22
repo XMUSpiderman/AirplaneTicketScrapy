@@ -25,6 +25,7 @@ output: html_document
     + 尝试申请[去哪儿开放平台](http://open.qunar.com/)
     + 尝试较好实现的网站：如,艺龙<http://flight.elong.com/bjs-sha/?departdate=2016-01-22&seatlevel=Y>
     + 重要的帖子：基于Scrapy如何写一个爬虫抓取艺龙、携程等网站的机票价格进行分析并做机票价格预测<https://www.zhihu.com/question/29611598>
+    + 重要的学习案例：[使用selenium爬取【去哪儿网】](https://github.com/lining0806/QunarSpider)
 
 ## 第三阶段：制定长期的爬虫方案
 
